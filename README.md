@@ -3,12 +3,12 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;350%2B+LeetCode+Problems;Future+Software+Engineer" /> </p>
 
-**🎓 B.Tech CSE Student | CGPA: 8.85** | 
-**Lovely Professional University, Punjab**
+<h2>🎓 B.Tech CSE Student | CGPA: 8.85 | 
+Lovely Professional University, Punjab</h2>
 
 I am a passionate Computer Science student with strong interest in Data Science, Machine Learning, and Software Development. I love building real-world projects that solve practical problems and continuously improving my problem-solving skills.
 
-**💻 Technical Skills**
+<h2>💻 Technical Skills**</h2>
 
 **Languages** : 
 Java, Python, SQL, R, JavaScript, C++, C.
@@ -19,7 +19,7 @@ Excel, Power BI, Tableau, MongoDB, MySQL, Git, GitHub, Flask, Scikit-learn, Pand
 **Core Skills** : 
 Data Structures and Algorithms, Problem Solving, Machine Learning, Responsive Design, REST API Integration.
 
-**🚀 Projects**
+<h2>🚀 Projects</h2>
 
 1. VidSnapAI – AI Powered Reel Generator | 
 Python, Flask, ElevenLabs | 
@@ -44,23 +44,23 @@ Power BI
 - Improved reporting efficiency by 40 percent
   
 
-**📈 GitHub Stats**
+<h2>📈 GitHub Stats</h2>
 
  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskankumari8&theme=tokyonight" /> </p>
 
-**📊 LeetCode Stats**
+<h2>📊 LeetCode Stats</h2>
 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Muskan60?theme=dark&font=Baloo&ext=heatmap" /> </p>
 
 
-**🏆 Achievements**
+<h2>🏆 Achievements</h2>
 - Top 5 Finalist – Datathon PICK.AI sponsored by TRANSORG Analytics
 - Selected in coding round – HackOn with Amazon
 - Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
 - 3rd Rank – National Talent Search Program
   
 
-**📫 Connect With Me**
+<h2>📫 Connect With Me</h2>
 
 Email: muskan8299k@gmail.com
 
