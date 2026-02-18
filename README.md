@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;350%2B+LeetCode+Problems;Future+Software+Engineer" /> </p>
 
-<h2>🎓 B.Tech CSE Student | CGPA: 8.85 | 
-Lovely Professional University, Punjab</h2>
+**🎓 B.Tech CSE Student |  
+Lovely Professional University, Punjab | CGPA : 8.85**
 
 I am a passionate Computer Science student with strong interest in Data Science, Machine Learning, and Software Development. I love building real-world projects that solve practical problems and continuously improving my problem-solving skills.
 
@@ -54,10 +54,10 @@ Power BI
 
 
 <h2>🏆 Achievements</h2>
-- Top 5 Finalist – Datathon PICK.AI sponsored by TRANSORG Analytics
-- Selected in coding round – HackOn with Amazon
-- Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
-- 3rd Rank – National Talent Search Program
+1. Top 5 Finalist – Datathon PICK.AI sponsored by TRANSORG Analytics
+2. Selected in coding round – HackOn with Amazon
+3. Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
+4. 3rd Rank – National Talent Search Program
   
 
 <h2>📫 Connect With Me</h2>
