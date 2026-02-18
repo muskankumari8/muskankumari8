@@ -8,7 +8,7 @@ Lovely Professional University, Punjab</h2>
 
 I am a passionate Computer Science student with strong interest in Data Science, Machine Learning, and Software Development. I love building real-world projects that solve practical problems and continuously improving my problem-solving skills.
 
-<h2>💻 Technical Skills**</h2>
+<h2>💻 Technical Skills</h2>
 
 **Languages** : 
 Java, Python, SQL, R, JavaScript, C++, C.
