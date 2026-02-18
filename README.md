@@ -9,13 +9,13 @@ I am a passionate Computer Science student with strong interest in Data Science,
 
 **💻 Technical Skills**
 
-**Languages**
+**Languages** : 
 Java, Python, SQL, R, JavaScript, C++, C
 
-**Tools and Technologies**
+**Tools and Technologies** : 
 Excel, Power BI, Tableau, MongoDB, MySQL, Git, GitHub, Flask, Scikit-learn, Pandas, NumPy
 
-**Core Skills**
+**Core Skills** : 
 Data Structures and Algorithms, Problem Solving, Machine Learning, Responsive Design, REST API Integration
 
 **🚀 Projects**
@@ -24,42 +24,40 @@ Data Structures and Algorithms, Problem Solving, Machine Learning, Responsive De
 Python, Flask, ElevenLabs
 GitHub: https://github.com/muskankumari8/VidSnapAI
 
-Developed an end-to-end SaaS platform that automates reel creation and reduced manual editing time by 80 percent
-
-Integrated ElevenLabs API to generate lifelike AI voiceovers
-
-Built a dynamic media gallery handling 1000+ generated reels
+- Developed an end-to-end SaaS platform that automates reel creation and reduced manual editing time by 80 percent
+- Integrated ElevenLabs API to generate lifelike AI voiceovers
+- Built a dynamic media gallery handling 1000+ generated reels
 
 2. Housing Price Prediction
 Python, Scikit-learn, Pandas, NumPy
 GitHub: https://github.com/muskankumari8/House-Price-Prediction
 
-Built regression models to predict California housing prices
-
-Random Forest achieved 97.46 percent accuracy with optimized preprocessing
-
-Created reusable inference pipeline and automated model persistence using Joblib
+- Built regression models to predict California housing prices
+- Random Forest achieved 97.46 percent accuracy with optimized preprocessing
+- Created reusable inference pipeline and automated model persistence using Joblib
 
 3. Coffee Shop Sales Dashboard
 Power BI
 
-Designed interactive dashboard with dynamic filters and DAX measures
-
-Improved reporting efficiency by 40 percent
+- Designed interactive dashboard with dynamic filters and DAX measures
+- Improved reporting efficiency by 40 percent
 
 **📈 GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muskankumari8&show_icons=true&theme=tokyonight&cache_seconds=1800" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskankumari8&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskankumari8&layout=compact&theme=tokyonight&cache_seconds=1800" /> </p>
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskankumari8&theme=tokyonight" /> </p>
 
 **📊 LeetCode Stats**
 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Muskan60?theme=dark&font=Baloo&ext=heatmap" /> </p>
 
 **🏆 Achievements**
-• Top 5 Finalist – Datathon PICK.AI
-• Selected in coding round – HackOn with Amazon
-• Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
-• 3rd Rank – National Talent Search Program
+Top 5 Finalist – Datathon PICK.AI sponsored by TRANSORG Analytics
+
+Selected in coding round – HackOn with Amazon
+
+Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
+
+3rd Rank – National Talent Search Program
 
 **📫 Connect With Me**
 
