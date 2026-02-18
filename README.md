@@ -1,4 +1,87 @@
-## Hi there 👋
+Hi there, I'm Muskan Kumari 👋
+
+🎓 B.Tech CSE Student | CGPA: 8.85
+Lovely Professional University, Punjab
+
+I am a passionate Computer Science student with strong interest in Data Science, Machine Learning, and Software Development. I love building real-world projects that solve practical problems and continuously improving my problem-solving skills.
+
+💻 Technical Skills
+
+1 Languages
+  Java
+  Python
+  SQL
+  R
+  JavaScript
+  C++
+  C
+
+2 Tools and Technologies
+  Excel
+  Power BI
+  Tableau
+  MongoDB
+  MySQL
+  Git
+  GitHub
+  Flask
+  Scikit-learn
+  Pandas
+  NumPy
+
+3 Core Skills
+  Data Structures and Algorithms
+  Problem Solving
+  Machine Learning
+  Responsive Design
+  REST API Integration
+
+
+🚀 Projects
+
+1. VidSnapAI – AI Powered Reel Generator
+Python, Flask, ElevenLabs
+GitHub: https://github.com/muskankumari8/VidSnapAI
+
+- Developed an end-to-end SaaS platform that automates reel creation and reduced manual editing time by 80 percent.
+- Integrated ElevenLabs API to generate lifelike AI voiceovers.
+- Built a dynamic media gallery handling 1000+ generated reels.
+
+2. Housing Price Prediction
+Python, Scikit-learn, Pandas, NumPy
+GitHub: https://github.com/muskankumari8/House-Price-Prediction
+
+= Built regression models to predict California housing prices.
+- Random Forest achieved 97.46 percent accuracy with optimized preprocessing.
+- Created reusable inference pipeline and automated model persistence using Joblib.
+
+3. Coffee Shop Sales Dashboard
+Power BI
+
+- Designed interactive dashboard with dynamic filters and DAX measures.
+- Improved reporting efficiency by 40 percent.
+
+
+🏆 Achievements
+
+1. Top 5 Finalist – Datathon PICK.AI sponsored by TRANSORG Analytics
+2. Selected in coding round – HackOn with Amazon
+3. Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
+4. 3rd Rank – National Talent Search Program
+
+
+📫 Connect With Me
+
+Email: muskan8299k@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/muskan-kumari-100582255/
+
+GitHub: https://github.com/muskankumari8/
+
+LeetCode: https://leetcode.com/u/Muskan60/
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muskan60)
+
 
 <!--
 **muskankumari8/muskankumari8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
