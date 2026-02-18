@@ -10,13 +10,13 @@ I am a passionate Computer Science student with strong interest in Data Science,
 **💻 Technical Skills**
 
 **Languages** : 
-Java, Python, SQL, R, JavaScript, C++, C
+Java, Python, SQL, R, JavaScript, C++, C.
 
 **Tools and Technologies** : 
-Excel, Power BI, Tableau, MongoDB, MySQL, Git, GitHub, Flask, Scikit-learn, Pandas, NumPy
+Excel, Power BI, Tableau, MongoDB, MySQL, Git, GitHub, Flask, Scikit-learn, Pandas, NumPy.
 
 **Core Skills** : 
-Data Structures and Algorithms, Problem Solving, Machine Learning, Responsive Design, REST API Integration
+Data Structures and Algorithms, Problem Solving, Machine Learning, Responsive Design, REST API Integration.
 
 **🚀 Projects**
 
@@ -41,6 +41,7 @@ Power BI
 
 - Designed interactive dashboard with dynamic filters and DAX measures
 - Improved reporting efficiency by 40 percent
+  
 
 **📈 GitHub Stats**
 
@@ -50,14 +51,13 @@ Power BI
 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Muskan60?theme=dark&font=Baloo&ext=heatmap" /> </p>
 
+
 **🏆 Achievements**
-Top 5 Finalist – Datathon PICK.AI sponsored by TRANSORG Analytics
-
-Selected in coding round – HackOn with Amazon
-
-Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
-
-3rd Rank – National Talent Search Program
+- Top 5 Finalist – Datathon PICK.AI sponsored by TRANSORG Analytics
+- Selected in coding round – HackOn with Amazon
+- Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
+- 3rd Rank – National Talent Search Program
+  
 
 **📫 Connect With Me**
 
