@@ -53,10 +53,10 @@ Power BI
 
 
 <h2>🏆 Achievements</h2>
-• Top 5 Finalist – Datathon PICK.AI
-• Selected in coding round – HackOn with Amazon
-• Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
-• 3rd Rank – National Talent Search Program
+- Top 5 Finalist | Datathon PICK.AI
+- Selected in coding round | HackOn with Amazon
+- Solved 350+ problems on LeetCode and 100+ on GeeksforGeeks
+- 3rd Rank | National Talent Search Program
   
 
 <h2>📫 Connect With Me</h2>
