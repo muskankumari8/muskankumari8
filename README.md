@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi there, I'm Muskan Kumari 👋</b></h1>
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;350%2B+LeetCode+Problems;Future+Software+Engineer" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;500%2B+LeetCode+Problems;Future+Software+Engineer" /> </p>
 
-**🎓 B.Tech CSE Student | Lovely Professional University, Punjab | CGPA : 8.91**
+**🎓 B.Tech CSE Student | Lovely Professional University, Punjab | CGPA : 8.95**
 
 I am a passionate Computer Science student with strong interest in Data Science, Machine Learning, and Software Development. I love building real-world projects that solve practical problems and continuously improving my problem-solving skills.
 
